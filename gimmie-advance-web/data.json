@@ -1,0 +1,154 @@
+[{
+  "name": "Adidas Stan Smith",
+  "category": "adidas",
+  "price": 59.99,
+  "image": "/images/1.png"
+},{
+  "name": "Adidas Yeezy Brown",
+  "category": "adidas",
+  "price": 355.99,
+  "image": "/images/2.png"
+},{
+  "name": "Adidas Three Lines",
+  "category": "adidas",
+  "price": 159.99,
+  "image": "/images/4.png"
+},{
+  "name": "Adidas Yeezy Zebra",
+  "category": "adidas",
+  "price": 399.99,
+  "image": "/images/5.png"
+},{
+  "name": "Adidas Three Lines Navy",
+  "category": "adidas",
+  "price": 179.99,
+  "image": "/images/6.png"
+},{
+  "name": "Adidas Three Lines FRA",
+  "category": "adidas",
+  "price": 179.99,
+  "image": "/images/7.png"
+},{
+  "name": "Adidas Yeezy White",
+  "category": "adidas",
+  "price": 399.99,
+  "image": "/images/8.png"
+},{
+  "name": "Adidas Yeezy Sand",
+  "category": "adidas",
+  "price": 419.99,
+  "image": "/images/9.png"
+},{
+  "name": "Adidas Prestige Fly",
+  "category": "adidas",
+  "price": 799.99,
+  "image": "/images/10.png"
+},{
+  "name": "Nike Air Max 97",
+  "category": "nike",
+  "price": 185.99,
+  "image": "/images/11.png"
+},{
+  "name": "Nike Dunk SB High Dark",
+  "category": "nike",
+  "price": 169.99,
+  "image": "/images/12.png"
+},{
+  "name": "Nike Air Max 97 White",
+  "category": "nike",
+  "price": 199.99,
+  "image": "/images/13.png"
+},{
+  "name": "Nike Fly 2.0 Unv Red",
+  "category": "nike",
+  "price": 299.99,
+  "image": "/images/14.png"
+},{
+  "name": "Nike Air Force 1 White",
+  "category": "nike",
+  "price": 119.99,
+  "image": "/images/15.png"
+},{
+  "name": "Nike Dunk SB Green",
+  "category": "nike",
+  "price": 159.99,
+  "image": "/images/16.png"
+},{
+  "name": "Nike Air Max 97 Canvas",
+  "category": "nike",
+  "price": 399.99,
+  "image": "/images/17.png"
+},{
+  "name": "Nike Air Force 1 Borgone",
+  "category": "nike",
+  "price": 129.99,
+  "image": "/images/18.png"
+},{
+  "name": "Nike Zoom II",
+  "category": "nike",
+  "price": 69.99,
+  "image": "/images/19.png"
+},{
+  "name": "Nike Zoom III Royal Blue",
+  "category": "nike",
+  "price": 99.99,
+  "image": "/images/20.png"
+},{
+  "name": "Jordan 19 George Green",
+  "category": "jordan",
+  "price": 599.99,
+  "image": "/images/21.png"
+},{
+  "name": "Air Jordan 1 Chicago",
+  "category": "jordan",
+  "price": 599.99,
+  "image": "/images/22.png"
+},{
+  "name": "Air Jordan 4 Midnight",
+  "category": "jordan",
+  "price": 499.99,
+  "image": "/images/23.png"
+},{
+  "name": "Air Jordan 11 White",
+  "category": "jordan",
+  "price": 229.99,
+  "image": "/images/24.png"
+},{
+  "name": "Air Jordan 1 Navy",
+  "category": "jordan",
+  "price": 229.99,
+  "image": "/images/25.png"
+},{
+  "name": "Air Jordan 1 Taxi",
+  "category": "jordan",
+  "price": 179.99,
+  "image": "/images/26.png"
+},{
+  "name": "Air Jordan 11 Black",
+  "category": "jordan",
+  "price": 339.99,
+  "image": "/images/27.png"
+},{
+  "name": "Air Jordan 1 Orange Rush",
+  "category": "jordan",
+  "price": 179.99,
+  "image": "/images/28.png"
+},{
+  "name": "Air Jordan 4 Oreo Retro",
+  "category": "jordan",
+  "price": 699.99,
+  "image": "/images/29.png"
+},{
+  "name": "Air Jordan 1 Off-White",
+  "category": "jordan",
+  "price": 999.99,
+  "image": "/images/30.png"
+},
+{
+  "name": "Air Jordan 1 Red",
+  "category": "jordan",
+  "price": 255.99,
+  "image": "/images/31.png"
+}
+
+]
